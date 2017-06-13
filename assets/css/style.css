@@ -1,0 +1,64 @@
+body {
+	background: url("../images/blue-wallpaper.png");
+	font-family: arial, sans-serif;
+	font-size: 100%;
+}
+
+/*===== Panels =====*/
+.panel{
+	margin-top: 10px;
+}
+
+/* Title Section */
+#title-section > .panel > .panel-body {
+	background-color: #CD853F;
+	font-size: 2.5em;
+	vertical-align: middle;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #191970;
+}
+
+/* paragraphSection */
+#paragraphSection > .panel > .panel-body {
+	background-color: #FAEBD7;
+	font-size: 1.5em;
+	text-align: justify;
+}
+
+/*Random Number Generator Section */
+#randon-value > .panel > .panel-body {
+	background-color: #3CB371;
+	height: 130px;
+	font-size: 2.5em;
+}
+
+/*Wins/Loses Section*/
+#wins-loses > .panel > .panel-body {
+	background-color: #40E0D0;
+	height: 130px;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	padding-right: 5px;
+}
+
+/* Total Score Section */
+#text-content > .panel > .panel-body{
+	position: relative;
+	height: 35px;
+	background-color: #008B8B;
+}
+
+.panel-body > h4 {
+	position: absolute;
+	margin-top: -5px;
+}
+
+#score-card > .panel > .panel-body {
+	height: 130px;
+	font-size: 2.5em;
+	background-color: #008B8B;
+}
