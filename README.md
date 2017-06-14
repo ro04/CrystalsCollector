@@ -27,3 +27,5 @@ When the game begins again:
 Game design notes:
 * The random number shown at the start of the game will be between 19 - 120.
 * Each crystal will have a random hidden value between 1 - 12.
+
+***https://onemc-crystalscollector.herokuapp.com/***
