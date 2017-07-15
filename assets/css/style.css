@@ -1,5 +1,9 @@
 body {
 	background: url("../images/blue-wallpaper.png");
+	 -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
 	font-family: arial, sans-serif;
 	font-size: 100%;
 }
